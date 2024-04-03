@@ -1,0 +1,13 @@
+
+/* Media 375 */
+
+@media (max-width: 375px) {
+    .cards {
+        flex-direction: column;
+
+    }
+
+    .card {
+        padding: 34px;
+    }
+}

@@ -29,7 +29,5 @@ toggle.onclick = () => {
     }else{
         cardCost3.textContent = "39.99"
     }
-
-
-    toggle
+    
 }
